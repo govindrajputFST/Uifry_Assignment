@@ -1,0 +1,43 @@
+.profilee{
+    position: absolute;
+    left: 8vw;
+    top: 180vw;
+    z-index: 1;
+}
+
+.faqs{
+    position: absolute;
+    left: 15vw;
+    top: 235vw;
+    z-index: -1;
+}
+.shadow1{
+    position: absolute;
+    left: 6vw;
+    top: 50vw;
+    z-index: -4;
+}
+.shadow3{
+    position: absolute;
+    left: 80vw;
+    top: 57vw;
+    z-index: -4;
+}
+.shadow4{
+    position: absolute;
+    left: 47vw;
+    top: 104vw;
+    z-index: -4;
+}
+.shadow5{
+    position: absolute;
+    left: 8vw;
+    top: 196vw;
+    z-index: -1;
+}
+.shadow2{
+    position: absolute;
+    left: 11vw;
+    top: 140vw;
+    z-index: -4;
+}

@@ -1,0 +1,72 @@
+.grid-container{
+    display: flex;
+   text-justify: distribute;
+}
+.hero1{
+    /* border: 2px solid black; */
+    width: 50%;
+    height: 80vh;
+    margin-left: 2%;
+    margin-top: 50px;
+}
+.hero2{
+    
+    width: 50%;
+    height: 50vh;
+    margin-left: 2%;
+    margin-top: 50px;
+}
+.circle{
+    position: absolute;
+    left: 15vw;
+    top: 3vw;
+    z-index: -1;
+}
+h1{
+    font-weight: 900;
+    word-spacing: 5px;
+    margin-top: 5vw;
+    font-size: 4vw;
+    text-align: left;
+    margin-left: 2vw;
+}
+p{
+    word-spacing: 5px;
+}
+.star2{
+    margin-left: 15px;
+}
+.get{
+    margin-top: 15px;
+}
+.starline{
+    margin-top: 2vw;
+}
+.star3{
+    left: 20vw;
+    top: 37vw;
+    position: absolute;
+}
+.mobileline{
+    position: absolute;
+    /* left: 15vw; */
+    top: 1.2vw;
+    z-index: -3;
+}
+.mobileline2{
+    z-index: -2;
+    position: relative;
+}
+.mobileline1{
+    position: absolute;
+    left: 51vw;
+    top: 1.3vw;
+    z-index: -1;
+}
+.iphoneshadow{
+    position: absolute;
+    left: 60vw;
+    top: 23vw;
+    z-index: -4;
+}
+
